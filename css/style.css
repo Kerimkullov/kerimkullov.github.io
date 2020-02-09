@@ -810,6 +810,10 @@ h1, h2, h3, h4, h5,
   .site-section-cover p {
     font-size: 18px;
     color: #fff; }
+ /* .site-section-cover .p {
+    text-align: end;
+  }
+*/
 
 .site-section {
   padding: 7rem 0; }
